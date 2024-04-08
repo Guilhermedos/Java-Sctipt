@@ -8,5 +8,4 @@ console.log(nome,nome2,nome3)
 const nome4 = "maycon";
 console.log(nome,nome2,nome3,nome4)
 const nome5 = "kevin";
-console.log(nome,nome2,nome3,nome4,nome5)
-
+console.log(nome,nome2,nome3,nome4)
