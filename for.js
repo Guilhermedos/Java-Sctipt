@@ -1,16 +1,25 @@
-const = escola [
+const escola = [
     {
         nome: "yamal",
         idade: 15,
-        sala: 1},
+        sala: 1,
+    },
+
     {
         nome: "vinijr",
         idade: 16,
-        sala:2},
+        sala: 2,
+    },
+
     {
-        nome: Guilherme
-        idade: 17
-        sala:3,}
-for(let i = 0; i < escola.lenght; i++){
+        nome: "Guilherme",
+        idade: 17,
+        sala:3
+    }
+
+
+]    
+console.log(escola[2].nome)
+for (let i = 0 ; i< escola.lenght; i++){
     console.log(escola[i].nome)
-}
+    }
